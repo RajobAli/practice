@@ -1,0 +1,14 @@
+body{
+    height: 500px;
+}
+
+.imgg{
+
+    display:flex;
+
+    margin: 250px auto;
+   
+}
+.imgg:hover{
+    transform: rotate(45deg);
+}
